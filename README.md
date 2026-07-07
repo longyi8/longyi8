@@ -58,15 +58,6 @@ current mood: ship it, then harden it
 
 ---
 
-## Notes
-
-- I prefer simple systems that are easy to fix at 3 AM.
-- I don't like leaking secrets into logs, repos, or screenshots.
-- I care more about whether something survives production than whether it looks clever.
-- If a boring script saves time every day, it's worth writing.
-
----
-
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longyi8&theme=tokyonight" />
