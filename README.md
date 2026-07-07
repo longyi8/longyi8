@@ -1,107 +1,80 @@
 <div align="center">
 
-# Hi, I'm Longyi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e3a8a,100:7c3aed&text=Longyi&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=just%20building%20things%20I%20like&descAlignY=60&animation=fadeIn" />
 
-**Builder · Cloud Infrastructure · Full-stack tooling · Automation**
+<a href="https://github.com/longyi8">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Longyi.;I+write+code%2C+run+servers%2C+and+break+things+until+they+work.;Mostly+Go+%2F+PHP+%2F+TypeScript+%2F+Linux.;Less+talk%2C+more+shipping." alt="Typing SVG" />
+</a>
 
-I build and operate real-world products around cloud services, payment systems, Telegram bots, admin panels, and developer tooling.
+<br />
 
-[![Profile Views](https://count.getloli.com/get/@longyi?theme=rule34)](https://github.com/longyi8)
-[![GitHub followers](https://img.shields.io/github/followers/longyi8?style=flat-square&logo=github&label=Followers)](https://github.com/longyi8?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/longyi8?style=flat-square&logo=github&label=Stars)](https://github.com/longyi8?tab=repositories)
-
-</div>
-
----
-
-## 🧭 About me
-
-- 🛠️ Focused on **cloud infrastructure**, **automation**, **payment workflows**, and **admin dashboards**
-- 🤖 Building Telegram-based tools, service bots, and operational systems
-- 🔐 Interested in practical security, deployment hardening, and reliable observability
-- 🌐 Running projects under **Cery Cloud** ecosystem
-- 🧩 I like tools that are simple, automated, and actually useful in production
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+<img src="https://count.getloli.com/get/@longyi?theme=rule34" alt="visitor counter" />
 
 </div>
 
 ---
 
-## 🚀 What I work on
+## About me
 
-```text
-Cloud & Network       ████████████████████  Production operations, routing, CDN, monitoring
-Full-stack Products   ██████████████████░░  Panels, dashboards, web apps, mobile apps
-Automation & Bots     ███████████████████░  Telegram bots, payment flow, deployment scripts
-Security Hardening    ████████████████░░░░  Audits, SSRF prevention, secret handling, logging
+I'm Longyi.
+
+I like building practical stuff: small tools, web panels, bots, backend services, deployment scripts, and whatever makes daily operations less annoying.
+
+Most of my work is not very glamorous — servers, logs, APIs, payments, automation, debugging weird production issues — but I enjoy making systems that actually run.
+
+```txt
+current mood: ship it, then harden it
 ```
 
 ---
 
-## 📌 Featured public projects
+## Things I use
 
 <div align="center">
 
-<a href="https://github.com/Cery-cloud/v2node">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cery-cloud&repo=v2node&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Cery-cloud/XrayR-wyx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cery-cloud&repo=XrayR-wyx&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://skillicons.dev/icons?i=go,php,laravel,ts,react,flutter,python,nodejs,linux,docker,nginx,mysql,redis,git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## What I usually do
+
+```txt
+backend services       ███████████████████░
+server operations      ████████████████████
+automation scripts     ██████████████████░░
+telegram bots          ████████████████░░░░
+frontend panels        ██████████████░░░░░░
+security hardening     ███████████████░░░░░
+```
+
+---
+
+## Notes
+
+- I prefer simple systems that are easy to fix at 3 AM.
+- I don't like leaking secrets into logs, repos, or screenshots.
+- I care more about whether something survives production than whether it looks clever.
+- If a boring script saves time every day, it's worth writing.
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi8&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyi8&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=longyi8&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=longyi8&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🧠 Principles
-
-> Build small. Ship fast. Harden what matters. Automate the boring parts.
-
-- Prefer practical reliability over fancy architecture
-- Keep secrets out of repos, logs, and screenshots
-- Make deployment reproducible
-- Document the weird parts — future me will forget
-
----
-
 <div align="center">
 
-### Thanks for visiting 🌙
-
-![Visitor Count](https://count.getloli.com/get/@longyi "visitor counter")
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7c3aed,50:1e3a8a,100:0f172a" />
 
 </div>
