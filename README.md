@@ -40,14 +40,21 @@ current mood: ship it, then harden it
 
 ## What I usually do
 
-```txt
-backend services       ███████████████████░
-server operations      ████████████████████
-automation scripts     ██████████████████░░
-telegram bots          ████████████████░░░░
-frontend panels        ██████████████░░░░░░
-security hardening     ███████████████░░░░░
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&width=720&lines=backend+services+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91;server+operations+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;automation+scripts+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91;telegram+bots+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91;frontend+panels+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91;security+hardening+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91" alt="animated work bars" />
+
+<br />
+
+<img src="https://img.shields.io/badge/backend_services-95%25-7c3aed?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/server_operations-100%25-2563eb?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/automation_scripts-90%25-0891b2?style=for-the-badge&labelColor=0f172a" />
+<br />
+<img src="https://img.shields.io/badge/telegram_bots-80%25-0ea5e9?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/frontend_panels-70%25-9333ea?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/security_hardening-75%25-dc2626?style=for-the-badge&labelColor=0f172a" />
+
+</div>
 
 ---
 
