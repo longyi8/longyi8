@@ -69,8 +69,12 @@ current mood: ship it, then harden it
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=longyi8&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longyi8&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longyi8&theme=tokyonight" />
+
+<br /><br />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=longyi8&theme=tokyonight" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=longyi8&theme=tokyonight" />
 
 <br /><br />
 
